@@ -1,0 +1,17 @@
+pachage br.com.ap3.adna;
+
+public class Pessoa{
+    int idade = -1;
+    string nomeCompleto = "vazio";
+
+    int gitIdade () {
+
+    string getNomeCompleto() {
+
+    void gitIdade( int novaIdade) {
+
+    void getNomeCompleto( string novoNomeCompleto) {
+        
+    }   
+
+
