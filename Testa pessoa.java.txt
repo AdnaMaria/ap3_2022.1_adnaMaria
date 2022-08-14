@@ -1,17 +1,10 @@
 pachage br.com.ap3.adna;
 
-public class Pessoa{
-    int idade = -1;
-    string nomeCompleto = "vazio";
+\\TestaPessoa
+\\br.com.ap3.adna.Pessoa
 
-    int gitIdade () {
+public class TestaPessoa{
+    
 
-    string getNomeCompleto() {
-
-    void gitIdade( int novaIdade) {
-
-    void getNomeCompleto( string novoNomeCompleto) {
-        
-    }   
-
-
+    public static void main(
+        system.out.println(adna)
