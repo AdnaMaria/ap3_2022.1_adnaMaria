@@ -5,7 +5,29 @@ pachage br.com.ap3.adna;
 
 public class Pessoa{
     
+    int idade;
+    string nome;
 
-    public static void main(
-        system.out.println(adna)
-}                                                                     
+public string getNome(){
+ return nome;
+ }
+
+ public int idade(){
+ return idade;
+
+ } 
+ void setNome(string nome){
+    this.nome = nome:
+
+ }
+ void setidade(int idade){
+ this.idade = idade;
+
+ }
+
+public strig tostring() {
+   string pessoa string = nome +"\n"+;
+   pessoa string = idade + " idade;
+   return pessoatring;
+   } 
+}
