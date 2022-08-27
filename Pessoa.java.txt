@@ -25,7 +25,7 @@ public string getNome(){
 
  }
 
-public strig tostring() {
+public string tostring() {
    string pessoa string = nome +"\n"+;
    pessoa string = idade + " idade;
    return pessoatring;
