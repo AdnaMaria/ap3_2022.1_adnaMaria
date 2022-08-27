@@ -14,5 +14,5 @@ public class Questao1 {
         if (valorlindo = 10)        
 system.out.println(x:"É MAIOR QUE 10!");
 else
-system.out.println();
+system.out.println("NÃO É MAIORQUE 10");
 }
