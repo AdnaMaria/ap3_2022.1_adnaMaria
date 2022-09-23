@@ -14,5 +14,15 @@ public class Questao1 {
         if (valorlindo = 10)        
 system.out.println(x:"É MAIOR QUE 10!");
 else
+<<<<<<< HEAD
+<<<<<<< HEAD
 system.out.println("É MENOR QUE 10");
 }
+=======
+system.out.println("NÃO É MAIOR QUE 10");
+}
+>>>>>>> dbd100f8487ca7eb24a40b56ae5f1db3e3639ec5
+=======
+system.out.println();
+}
+>>>>>>> parent of 82d1e7e (Update Questão1.java)
